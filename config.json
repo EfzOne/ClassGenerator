@@ -1,0 +1,13 @@
+{
+  "organization": {
+    "max": 50
+  },
+  "courses": [
+    "physics",
+    "chemistry",
+    "geography",
+    "physiology",
+    "history",
+    "politics"
+  ]
+}
